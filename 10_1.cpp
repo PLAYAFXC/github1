@@ -15,3 +15,4 @@ cout << "Result: "<< z << " $";
 system("pause>>void");
 return 0;
 }
+//12
